@@ -4,4 +4,4 @@ let checkPalendrome = (string)=>{
 				if(str===string) return "Palendrome";
 				else return "Not a Palendrome";
 				}
-				
+	console.log(checkPalendrome("I am the great"))
